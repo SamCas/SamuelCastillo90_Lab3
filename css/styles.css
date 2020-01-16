@@ -85,3 +85,9 @@ fieldset{
   background-color:#2994DA;
   text-align: center;
 }
+
+.newTodo {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
